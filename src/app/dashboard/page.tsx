@@ -1,9 +1,13 @@
 import React from 'react'
+import SideBar from '../ui/dashboard/sidebar/page'
+import NavBar from '../ui/dashboard/navbar/page'
 
-function dashboard() {
+function Dashboard() {
   return (
-    <div>dashboard</div>
+    <div>
+      Dashboard
+    </div>
   )
 }
 
-export default dashboard
+export default Dashboard
